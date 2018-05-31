@@ -34,7 +34,7 @@
 ## 6. 用例及界面详细设计
 - ### [“学生列表”用例](./用例/学生列表.md),[界面源码](./ui/home.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/home.html)
 - ### [“评定成绩”用例](./用例/评定成绩.md),[界面源码](./ui/add_grades.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/add_grades.html)
-- ### [“查看成绩”用例](./用例/查看成绩.md),[界面源码](./ui/look_grades.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/look_grades.htm)
+- ### [“查看成绩”用例](./用例/查看成绩.md),[界面源码](./ui/look_grades.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/look_grades.html)
 - ### [“修改密码”用例](./用例/修改密码.md),[界面源码](./ui/modify_password.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_password.html)
 - ### [“修改用户信息”用例](./用例/修改用户信息.md),[界面1源码](./ui/modify_users_stu.html),[界面1](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_users_stu.html)&nbsp;[界面2源码](./ui/modify_users_teacher.html),[界面2](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_users_teacher.html)
 - ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面1源码](./ui/modify_users_stu.html),[界面1](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_users_stu.html)&nbsp;&nbsp;[界面2源码](./ui/modify_users_teacher.html),[界面2](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_users_teacher.html)
