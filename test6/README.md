@@ -37,7 +37,7 @@
 - ### [“查看成绩”用例](./用例/查看成绩.md),[界面源码](./ui/look_grades.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/look_grades.html)
 - ### [“修改密码”用例](./用例/修改密码.md),[界面源码](./ui/modify_password.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_password.html)
 - ### [“修改用户信息”用例](./用例/修改用户信息.md),[界面1源码](./ui/modify_users_stu.html),[界面1](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_users_stu.html)&nbsp;[界面2源码](./ui/modify_users_teacher.html),[界面2](https://wjtwjt96.github.io/is_analysis/test6/ui/modify_users_teacher.html)
-- ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面1源码](./ui/look_users_stu.html),[界面1](https://wjtwjt96.github.io/is_analysis/test6/ui/look_users_stu.html)&nbsp;&nbsp;[界面2源码](./ui/look_users_teacher.html),[界面2](https://wjtwjt96.github.io/is_analysis/test6/ui/look_users_teacher.html)
+- ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面1源码](./ui/look_users_stu.html),[界面1](https://wjtwjt96.github.io/is_analysis/test6/ui/look_users_stu.html)&nbsp;&nbsp;[界面2源码](./ui/look_users_tea.html),[界面2](https://wjtwjt96.github.io/is_analysis/test6/ui/look_users_tea.html)
 - ### [“选课”用例](./用例/选课.md),[选课界面（老师）源码](./ui/tea_select_course.html),[界面1](https://wjtwjt96.github.io/is_analysis/test6/ui/tea_select_course.html)&nbsp;&nbsp;[选课界面（学生）源码](./ui/stu_select_course.html),[界面2](https://wjtwjt96.github.io/is_analysis/test6/ui/stu_select_course.html)
 - ### [“登出”用例](./用例/退出登录.md),[界面源码](./ui/login.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/login.html)
 - ### [“登录”用例](./用例/登录.md),[界面源码](./ui/login.html),[界面](https://wjtwjt96.github.io/is_analysis/test6/ui/login.html)
